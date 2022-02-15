@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="56.633583mm"
+   height="25.225916mm"
+   viewBox="0 0 113.26717 50.451832"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo-full2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:zoom="2.096401"
+     inkscape:cx="186.74862"
+     inkscape:cy="163.37523"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     width="60mm"
+     scale-x="2" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient50725">
+      <stop
+         style="stop-color:#ffe9d7;stop-opacity:1;"
+         offset="0"
+         id="stop50721" />
+      <stop
+         style="stop-color:#ffe9d7;stop-opacity:0;"
+         offset="1"
+         id="stop50723" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient50669"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffe9d7;stop-opacity:1;"
+         offset="0"
+         id="stop50667" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient50725"
+       id="linearGradient50727"
+       x1="10.607853"
+       y1="117.52649"
+       x2="53.659534"
+       y2="117.52649"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Circle"
+     transform="translate(-7.3539915,-92.300574)">
+    <ellipse
+       style="fill:#7aaaaa;fill-opacity:1;stroke:url(#linearGradient50727);stroke-width:4.00000015;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path34116"
+       cx="32.133694"
+       cy="117.52649"
+       rx="20.525841"
+       ry="20.972054" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Focusing"
+     transform="translate(-7.3539915,-92.300574)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.76923078;stroke:none;stroke-width:0.264583"
+       x="20.286108"
+       y="132.6021"
+       id="text17256"><tspan
+         sodipodi:role="line"
+         id="tspan17254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#000000;fill-opacity:0.76923078;stroke-width:0.264583"
+         x="20.286108"
+         y="132.6021">Focusing</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Essential"
+     transform="translate(-7.3539915,-92.300574)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:HenryMorganHand;-inkscape-font-specification:HenryMorganHand;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.239782"
+       y="116.19411"
+       id="text5204"><tspan
+         sodipodi:role="line"
+         id="tspan5202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:HenryMorganHand;-inkscape-font-specification:HenryMorganHand;fill:#2c6f6f;fill-opacity:1;stroke-width:0.264583"
+         x="21.239782"
+         y="116.19411">Essential</tspan></text>
+  </g>
+</svg>
